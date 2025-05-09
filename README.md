@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá 👋
+
+Sou ex-aluno da escola profissionalizante de Quixeramobim que atualmente está cursando Design Digital na UFC.
 
 <!--
 **andberna28/andberna28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
