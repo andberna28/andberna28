@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou ex-aluno da escola profissionalizante de Quixeramobim que atualmente está cursando Design Digital na UFC.
+Sou ex-aluno da escola profissionalizante de Quixeramobim que atualmente está cursando Design Digital no Campus UFC de Quixadá.
 
 <!--
 **andberna28/andberna28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
