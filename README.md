@@ -8,7 +8,7 @@
 
 ### 🤔 Who is Anderson Bernardo?
 
-- I'm 18 y.o and I completed high school at the Quixeramobim vocational school EEEPJAS.
+- I'm 19 y.o and I completed high school at the Quixeramobim vocational school EEEPJAS.
 - I'm a Digital Design student from the Federal University of Ceará, Quixadá, Brazil.
 - My experience primarily revolves around PHP, Laravel, Front-end, Figma and a little bit about JS and UI/UX Designs.
 
@@ -25,7 +25,7 @@
 ### 😄 Fun Facts
 
 - 🎸 I play (or try to) acoustic guitar and ukulele to calm my mind.
-- 🎮 I play all kinds of games, but Soulslikes and platformers are my favorites.
+- 🎮 I play all kinds of games, but Metroidvanias and Survivor Horror are my favorites.
 - 🎨 I have liked drawing since I was a child and to this day I have not given up my main hobby.
 - 🏐 I really enjoy playing volleyball with my friends, even though it happens very rarely.
 - ☕ I am a coffee lover, I can't go without my morning coffee.
